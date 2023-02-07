@@ -1,0 +1,9 @@
+year,month,day,num_in_call,num_out_call,num_mis_call,num_in_caller,num_out_caller,num_mis_caller,total_mins_in_call,total_mins_out_call,num_s,num_r,num_mms_s,num_mms_r,num_s_tel,num_r_tel,total_char_s,total_char_r,text_reciprocity_incoming,text_reciprocity_outgoing
+2022,7,28,0,2,0,0,1,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+2022,7,29,0,1,0,0,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+2022,7,30,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,70,1,0
+2022,7,31,0,2,0,0,1,0,0,1.0166666666666666,0,1,0,0,0,1,0,60,1,0
+2022,8,1,0,0,3,0,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0
+2022,8,2,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+2022,8,3,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+2022,8,4,0,1,1,0,1,1,0,28.233333333333334,0,0,0,0,0,0,0,0,0,0
